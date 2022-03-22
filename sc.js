@@ -1,1 +1,3 @@
-/* by Relldev メイ */
+{
+  "Txt": "Belum ada cmd nya banh :v",
+}
