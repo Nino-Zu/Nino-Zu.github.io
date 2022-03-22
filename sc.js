@@ -1,6 +1,6 @@
 {
   "owner": "Rafaa",
-  "menunya": "*INFORMATION*
+  "menunya": " *INFORMATION*
 ≻ ${prefix}ping
 ≻ ${prefix}owner
 ≻ ${prefix}menu
@@ -130,5 +130,5 @@
 ≻ ${prefix}unblock
 ≻ ${prefix}bcgroup
 ≻ ${prefix}bcall
-≻ ${prefix}setppbot"
+≻ ${prefix}setppbot "
 }
